@@ -1,0 +1,2 @@
+# shadow_plugin_test
+宿主加载插件找不到so问题demo
